@@ -20,3 +20,8 @@ cache/*
 # any IDE files
 .idea/
 .vscode/
+
+# OS files
+.DS_Store
+*/.DS_Store
+desktop.ini
